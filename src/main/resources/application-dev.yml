@@ -14,7 +14,7 @@ spring:
                 git:
                     uri: https://github.com/AzaiezAbdessalem/config-serverSanteVista.git
                     username: AzaiezAbdessalem
-                    password: 3c47865728bc6bc791e4e0f043070572a9f1a377
+                    password: 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
                     clone-on-start: true
                     skipSslValidation: true
                     default-label: dev
